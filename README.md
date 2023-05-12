@@ -8,6 +8,7 @@ first you have to open the local folder in git bash and type
   git init
 ```
 first you have to `fork` the repo
+
 then you have to `clone` the repo
 ```bash
 git clone https://github.com/<your_user_name>/shorto_url_shorter.git
